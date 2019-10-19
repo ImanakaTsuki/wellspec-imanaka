@@ -3,7 +3,12 @@ package javaTest;
 public class Java {
 
 	public static void main(String[] args) {
-		// TODO 自動生成されたメソッド・スタブ
+		int a = new java.util.Scanner(System.in).nextInt();
+		int b = new java.util.Scanner(System.in).nextInt();
+		int c = a + b;
+		System.out.println(c);
+		int d = a - b;
+		System.out.println(d);
 
 	}
 

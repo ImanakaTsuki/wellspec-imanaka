@@ -36,7 +36,8 @@ public class JavaTest4 {
 	        	 System.out.println(kakaku);
 	         }
 		 }
-		 }  
+		 } 
+	
 }
 
 	 			

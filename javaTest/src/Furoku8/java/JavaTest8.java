@@ -8,5 +8,6 @@ public class JavaTest8 {
 			 a = Gosub.gosub(a);
 		}
 		
+		
 	}
 }

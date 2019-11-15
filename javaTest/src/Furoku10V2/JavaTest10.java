@@ -18,11 +18,11 @@ public class JavaTest10 {
 	    	}
 	    }
 		if (mode == 1) {
-			Sub calcage = new Sub();
+			Sub s = new Sub();
 			Sub.calcage();
 		}
 		else {
-			Sub calcyear = new Sub();
+			Sub s = new Sub();
 			Sub.calcyear();
 		}
 		scanner.close();

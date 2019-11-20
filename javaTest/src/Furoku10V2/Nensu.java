@@ -1,8 +1,8 @@
 package Furoku10V2;
 
 public class Nensu {
-	static int nenrei;
-	static int year;
-	static int umare;
+	public static int nenrei;
+	public static int year;
+	public static int umare;
 
 }
